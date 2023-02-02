@@ -1,0 +1,4 @@
+Please describe the vehicles you created and how you made them in this file 08-07-01.txt
+
+I built the car separately, using CylinderBufferGeometry 
+for the wheels and vertices for the body.

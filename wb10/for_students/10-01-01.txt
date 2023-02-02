@@ -1,0 +1,6 @@
+1.
+    input: input the attributes of vertexs and uniforms
+    output: the screen-position of the vertex
+2.
+    input: the properties of the fragment
+    output: more properties of the fragment like color

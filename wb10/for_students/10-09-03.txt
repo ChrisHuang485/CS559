@@ -1,0 +1,8 @@
+Explain what your shader does and how it works.
+
+
+I added light to my checkerboard texture from the camera's line of sight,
+and I replaced the black and white colors of the checkerboard 
+with a red and blue animation and an added image. 
+Three sliders have been added to control checks, 
+radius, and segs. Also, the sphere will go around and cross the square.

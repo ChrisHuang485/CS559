@@ -1,0 +1,4 @@
+Answer the question.
+
+It shows that diffuse reflection is yellow 
+and specular reflection is white

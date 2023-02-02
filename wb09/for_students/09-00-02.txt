@@ -1,0 +1,3 @@
+Give proper attribution for models gathered from the web here
+
+website: https://threejs.org/manual/#en/backgrounds

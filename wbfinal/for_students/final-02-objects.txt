@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. Crystal Ball
+2. wireframeBall
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. house
+4. tree
+5. Carousel
+6. Swing
+7. SpinningTeacups
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- ColoredRoundabout
+- drone
+- ???
+
+At least on of each type of object:
+Building/structure: house
+Vehicle: car(black, on the road)
+Natural Element: tree
+
+Object loaded from a model file:
+Model: car
+
+An object with a shader that you wrote:
+ShaderObj: chessboard skin sphere
+
+Other Objects that you would like to note:
+???

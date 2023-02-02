@@ -1,0 +1,8 @@
+Explain how you incorporated a material property map here
+
+For the first ball, I add metalnessMap, metalness:1,
+            and roughness:.5.
+For the second ball, I add metalnessMap, metalness:.5,
+            and roughness:.5.
+For the third ball, I add metalnessMap, metalness:1,
+            and roughness:.3.        

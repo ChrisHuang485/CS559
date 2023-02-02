@@ -1,0 +1,13 @@
+Where did the image come from? 
+https://www.dazeddigital.com/science-tech/article/54556/1/our-universe-was-made-by-aliens-in-a-lab-says-harvard-scientist
+
+
+
+What lighting did you implement?
+
+the direction of the camera line of sight
+
+
+Did you do anything beyond basic texure with diffuse lighting (explain)?
+
+

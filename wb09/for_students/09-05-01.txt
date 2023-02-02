@@ -1,0 +1,7 @@
+Explain why the object you chose is a good use case for environment mapping.
+
+Explain where you got your textures and include any attributions here.
+
+Metal spheres easily reflect their surroundings,
+and env map reduces the amount of computer calculation.
+

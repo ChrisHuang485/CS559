@@ -1,0 +1,22 @@
+List all attributions here, this include "self-attributions":
+
+sky box texture: https://opengameart.org/content/clouds-skybox-1
+drone fbx model: https://free3d.com/3d-model/drone-costume-411845.html
+car fbx model: https://free3d.com/3d-model/koenigsegg-agera-72095.html
+water js: https://github.com/mrdoob/three.js
+GrRoads js: Zezheng Zhu 9082614877
+rain: https://cs559-spring22.github.io/wb06-solution/
+shader: workbook 10 https://github.com/CS559-Spring22/wb10-ChrisHuang485
+house and tree: workbook 6 https://github.com/CS559-Spring22/wb06-ChrisHuang485
+
+Graphics Park: workbook 7 https://github.com/CS559-Spring22/wb07-ChrisHuang485
+- cup.obj
+	-source: https://free3d.com/3d-model/taza-quintero-481628.html
+	-author: modelos3dquintero
+	-license: standard
+- horse.obj
+	-source: https://www.turbosquid.com/3d-models/free-obj-mode-horse/1124815
+	-author: Gatzegar
+	-license: standard
+
+spot light: workbook 6 https://github.com/CS559-Spring22/wb06-ChrisHuang485

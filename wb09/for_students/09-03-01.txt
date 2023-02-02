@@ -1,0 +1,7 @@
+Explain how you used a normal and bump map above
+
+For the left ball, I use bump texture. We can obviously 
+see the object separated along the texture.
+
+For the right ball, I use nnormal texture. We can see
+ that the object has triangles of normals on its surface.
